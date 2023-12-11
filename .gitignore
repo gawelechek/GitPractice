@@ -1,0 +1,7 @@
+/.vscode
+
+#  git init
+# git add .
+# git commit -m 'init'
+# git remote add origin https://github.com/gawelechek/MetaLabs.git
+# git push origin master
